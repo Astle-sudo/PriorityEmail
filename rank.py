@@ -35,16 +35,3 @@ def rankedEmails (N=5) :
         Emails[i].rank = ranks[i]
     
     return Emails
-
-
-
-
-
-
-
-
-
-
-  
-
-
