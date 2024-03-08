@@ -10,3 +10,4 @@
 
 - Check if the user has lesser than N emails, return an error
 - Give a reason for assigning priorities
+- Streamlit
